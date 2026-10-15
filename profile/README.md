@@ -20,7 +20,7 @@ Match a person by email, phone, name, or social URL, or a company by domain, nam
 
 | Platform | What you get |
 | --- | --- |
-| Snowflake Marketplace | People and company data shared into your account, a free company dataset, and the Data Legion Enrich native app · [Docs](https://www.datalegion.ai/docs/integrations/snowflake) |
+| Snowflake Marketplace | People and company data you query in place from your own account, a free company dataset, and the Data Legion Enrich native app · [Docs](https://www.datalegion.ai/docs/integrations/snowflake) |
 | Apify | The [Data Legion Enrichment](https://apify.com/datalegion/data-legion-enrichment) Actor, billed per matched record · [Docs](https://www.datalegion.ai/docs/integrations/apify) |
 | Clay | Person and company enrichment as a column in any Clay table · [Docs](https://www.datalegion.ai/docs/integrations/clay) |
 | Firecrawl Alexandria | Enrichment for agents already on Firecrawl, billed in Firecrawl credits · [Docs](https://www.datalegion.ai/docs/integrations/firecrawl) |
