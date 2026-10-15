@@ -16,6 +16,15 @@ Match a person by email, phone, name, or social URL, or a company by domain, nam
 | Claude plugin | [datalegion-plugin](https://github.com/datalegion-ai/datalegion-plugin) |
 | Bulk datasets | CSV, JSON, Parquet, or Delta to Amazon S3, Google Cloud Storage, Azure Blob Storage, or SFTP · [Formats](https://www.datalegion.ai/docs/getting-started/delivery-formats) |
 
+## Integrations
+
+| Platform | What you get |
+| --- | --- |
+| Snowflake Marketplace | People and company data shared into your account, a free company dataset, and the Data Legion Enrich native app · [Docs](https://www.datalegion.ai/docs/integrations/snowflake) |
+| Apify | The [Data Legion Enrichment](https://apify.com/datalegion/data-legion-enrichment) Actor, billed per matched record · [Docs](https://www.datalegion.ai/docs/integrations/apify) |
+| Clay | Person and company enrichment as a column in any Clay table · [Docs](https://www.datalegion.ai/docs/integrations/clay) |
+| Firecrawl Alexandria | Enrichment for agents already on Firecrawl, billed in Firecrawl credits · [Docs](https://www.datalegion.ai/docs/integrations/firecrawl) |
+
 ## Try it
 
 ```bash
