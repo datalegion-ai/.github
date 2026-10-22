@@ -24,6 +24,8 @@ Match a person by email, phone, name, or social URL, or a company by domain, nam
 | Apify | The [Data Legion Enrichment](https://apify.com/datalegion/data-legion-enrichment) Actor, billed per matched record · [Docs](https://www.datalegion.ai/docs/integrations/apify) |
 | Clay | Person and company enrichment as a column in any Clay table · [Docs](https://www.datalegion.ai/docs/integrations/clay) |
 | Firecrawl Alexandria | Enrichment for agents already on Firecrawl, billed in Firecrawl credits · [Docs](https://www.datalegion.ai/docs/integrations/firecrawl) |
+| Zapier | The [Data Legion app](https://zapier.com/apps/data-legion/integrations): Find Person, Find Company, and free data tools in any Zap · [Docs](https://www.datalegion.ai/docs/integrations/zapier) |
+| n8n | [`n8n-nodes-datalegion`](https://www.npmjs.com/package/n8n-nodes-datalegion), a verified community node for workflows and n8n's AI Agent · [Docs](https://www.datalegion.ai/docs/integrations/n8n) |
 
 ## Try it
 
